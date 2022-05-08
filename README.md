@@ -1,2 +1,3 @@
-# telebot
-By first telebot
+# Telebot
+The first telegram bot library
+
