@@ -1,3 +1,3 @@
-# Telebot
-The first telegram bot library
+# Telegar bot for Acciuting Company
+Ready PHP Bot Library to use
 
