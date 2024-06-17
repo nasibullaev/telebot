@@ -1,3 +1,3 @@
 # Telegram bot for Accounting Company
-Ready PHP Bot Library to use
+Ready PHP Bot Source Code to use
 
